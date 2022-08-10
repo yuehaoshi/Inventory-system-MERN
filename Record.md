@@ -1,0 +1,4 @@
+- Create Project using [create-react-app](https://create-react-app.dev/docs/getting-started)
+    - Uninstalled old version `create-react-app` first
+    - `npm init react-app my-app`, `npm start`
+- Add Bootstrap: `npm install bootstrap`
